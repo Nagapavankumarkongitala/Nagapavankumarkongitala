@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nagapavankumarkongitala
 - 👀 I’m interested in analytics
-- 🌱 I’m currently learning data scienced
+- 🌱 I’m currently learning data science
 
 
 <!---
