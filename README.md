@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagapavankumarkongitala&label=Profile%20views&color=0e75b6&style=flat" alt="nagapavankumarkongitala" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics, Machine learning**
+- 🌱 I’m currently learning **Machine learning, Deep learning, AI**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for Job in **AI & Data Science**
 
 - 👨‍💻 All of my projects are available at [nagapavankumarkongitala.github.io](nagapavankumarkongitala.github.io)
 
